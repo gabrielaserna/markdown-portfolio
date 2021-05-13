@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Generous*
+_Brave_
+
+**Adventurous**
+__Loyal__
+
+_Always keen on **having fun**_
